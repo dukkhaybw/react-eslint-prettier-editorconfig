@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { ConfigProvider } from 'antd';
-import './index.css';
 import zhCN from 'antd/lib/locale/zh_CN';
 import App from './App';
+
 import './assets/css/reset.css';
 import 'antd/dist/antd.css';
 
